@@ -60,7 +60,7 @@ You can extend your HW5 with lighting and transparency. If you have problem with
 
 You should have at least two light sources: one fixed light source in the fixed direction (1, 1, 1), so your environment has a globle light source; another light souce, which is displayed as a transparent sphere, can be moved by your mouse or arrow keys on the keyboard, or a combination of them. This will allow you to move your light source in the environment freely. Also, your movable light source's intensity can be adjusted.
 
-#Project
+# Project
 Design a computer game with your current homework result. You are allowed to design your own game, but it should inlcude the following components:
 
 1. Texture mapping on the tetrahedron and the ground; the texture file name(s) should start with your mason login name, so to avoid conflicts;
