@@ -1,5 +1,5 @@
 # ComputerGraphics
-Basic Computer Graphics Assignments and Projects
+Basic Computer Graphics Assignments and Project
 ## HW1: Animation
 Draw a point that moves on a circle and points that bounce in the cirlce. 
 
